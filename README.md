@@ -1,4 +1,3 @@
-=============================
 TiO2-NPS Sludge from WWTP from Chihuahua
 =============================
 
