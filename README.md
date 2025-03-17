@@ -1,7 +1,7 @@
 TiO2-NPS Sludge from WWTP from Chihuahua
 =============================
 
-Data base and Orange project used to analyze the data from Ti K-edge microXANES
+Data base and Orange project used to analyze the data from Ti K-edge microXANES for the publication: [https://doi.org/10.3390/nano12050744](https://doi.org/10.3390/nano12050744) 
 
 Orange Project 
 ===================
